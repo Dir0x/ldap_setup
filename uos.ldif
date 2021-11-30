@@ -1,0 +1,9 @@
+dn: ou=users,REPLACE
+objectClass: organizationalUnit
+objectClass: top
+ou: users
+
+dn: ou=groups,REPLACE
+objectClass: organizationalUnit
+objectClass: top
+ou: groups
